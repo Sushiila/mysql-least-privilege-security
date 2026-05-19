@@ -45,3 +45,5 @@ Confirmed that unauthorized UPDATE operations were blocked successfully.
 - Linux Administration
   
 ## Screenshots
+1. Unauthorised Database Access Attempt Successfully Denied
+   (https://github.com/Sushiila/mysql-least-privilege-security/blob/54aac7d583962fa14d6deb3601ae1d505c52092d/06%20-%20Unauthorized%20Database%20Access%20Attempt%20Successfully%20Denied.png)
