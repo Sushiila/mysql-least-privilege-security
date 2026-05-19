@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project demonstrates implementation of least privilege principles in MySQL by restricting unnecessary database access and limiting user permissions.
+This project demonstrates the implementation of least privilege principles in MySQL by restricting unnecessary database access and limiting user permissions.
 
 The goal was to validate secure database access control and prevent unauthorized actions.
 
@@ -47,3 +47,5 @@ Confirmed that unauthorized UPDATE operations were blocked successfully.
 ## Screenshots
 1. Unauthorised Database Access Attempt Successfully Denied
    (https://github.com/Sushiila/mysql-least-privilege-security/blob/54aac7d583962fa14d6deb3601ae1d505c52092d/06%20-%20Unauthorized%20Database%20Access%20Attempt%20Successfully%20Denied.png)
+2. Unauthorised Database Modification Attempt Successfully Blocked
+ (https://github.com/Sushiila/mysql-least-privilege-security/blob/4e063486218181087d231c5bf70b50907ff5a87b/08%20-Unauthorized%20Database%20Modification%20Attempt%20Successfully%20Blocked.png)
